@@ -1,0 +1,9 @@
+C:\Praca\WebAppCoreWebCon\DoradoB2BCoreContext\bin\Debug\netcoreapp3.1\DoradoB2BCoreContext.deps.json
+C:\Praca\WebAppCoreWebCon\DoradoB2BCoreContext\bin\Debug\netcoreapp3.1\DoradoB2BCoreContext.dll
+C:\Praca\WebAppCoreWebCon\DoradoB2BCoreContext\obj\Debug\netcoreapp3.1\DoradoB2BCoreContext.csprojAssemblyReference.cache
+C:\Praca\WebAppCoreWebCon\DoradoB2BCoreContext\obj\Debug\netcoreapp3.1\DoradoB2BCoreContext.AssemblyInfoInputs.cache
+C:\Praca\WebAppCoreWebCon\DoradoB2BCoreContext\obj\Debug\netcoreapp3.1\DoradoB2BCoreContext.AssemblyInfo.cs
+C:\Praca\WebAppCoreWebCon\DoradoB2BCoreContext\bin\Debug\netcoreapp3.1\DoradoB2BCoreContext.pdb
+C:\Praca\WebAppCoreWebCon\DoradoB2BCoreContext\obj\Debug\netcoreapp3.1\DoradoB2BCoreContext.csproj.CoreCompileInputs.cache
+C:\Praca\WebAppCoreWebCon\DoradoB2BCoreContext\obj\Debug\netcoreapp3.1\DoradoB2BCoreContext.dll
+C:\Praca\WebAppCoreWebCon\DoradoB2BCoreContext\obj\Debug\netcoreapp3.1\DoradoB2BCoreContext.pdb
