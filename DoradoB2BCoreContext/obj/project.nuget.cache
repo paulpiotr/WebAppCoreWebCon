@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "8BhvE+HPt2X1UfHGr36jtQq+VNenHPKUL0nCFKLa7kgv338JA7sDC4EN4oSKjpm8OgXgv7KDuCWMEiNN2k3bGQ==",
+  "dgSpecHash": "X450HlCpmj96RPW8C0iwP3EvgVu0BKIKtwY4gJBZ3YpwjHKmy+Cxemiy4QaQvL+FGQZiTkqejsivmip9vDrKuQ==",
   "success": true,
-  "projectFilePath": "C:\\Praca\\WebAppCoreWebCon\\DoradoB2BCoreContext\\DoradoB2BCoreContext.csproj",
+  "projectFilePath": "C:\\Praca\\WebAppCoreWebConDev\\DoradoB2BCoreContext\\DoradoB2BCoreContext.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\piotr.paul.ISK\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.3\\microsoft.aspnetcore.cryptography.internal.3.1.3.nupkg.sha512",
+    "C:\\Users\\piotr.paul.ISK\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.3\\microsoft.aspnetcore.cryptography.keyderivation.3.1.3.nupkg.sha512",
     "C:\\Users\\piotr.paul.ISK\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\piotr.paul.ISK\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\piotr.paul.ISK\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
